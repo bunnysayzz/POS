@@ -10,13 +10,13 @@ Eclipse IDE (or any Java IDE of your choice)
 Clone or download the repository to your local machine.
 Import the project into Eclipse.
 Build the project.
-Run the NewJFrame.java file.\n
+Run the NewJFrame.java file.
 
 **Usage:**
 Input the item code of the product being sold.
 Input the quantity of the product being sold.
 Repeat steps 1 and 2 for all products being sold.
-When finished inputting products, enter "exit" to calculate the total cost of the transaction.\n
+When finished inputting products, enter "exit" to calculate the total cost of the transaction.
 
 **Notes:**
 The system reads the product information from a text file (products.txt) in the following format: itemCode,productName,productPrice
