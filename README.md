@@ -3,7 +3,8 @@ This is a Java project that implements a Point of Sale (POS) system using the ja
 
 **Requirements:**
 Java SE Development Kit 8 or higher
-Eclipse IDE (or any Java IDE of your choice)\n
+Eclipse IDE (or any Java IDE of your choice)
+
 
 **Installation:**
 Clone or download the repository to your local machine.
