@@ -19,9 +19,9 @@ This is a Java project that implements a Point of Sale (POS) system using the `j
 1. Input the item code of the product being sold.
 2. Input the quantity of the product being sold.
 3. Repeat steps 1 and 2 for all products being sold.
-4. When finished inputting products, enter "exit" to calculate the total cost of the transaction.
+4. When finished inputting products, enter "print" to calculate the total cost of the transaction.
 
-   > Note: The system reads the product information from a text file (`products.txt`) in the following format: `itemCode,productName,productPrice`
+   > Note: The system reads the product information from a image file in the following format: `itemCode,productName,productPrice`
 
 5. The system outputs the transaction information to the console.
 
